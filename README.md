@@ -34,4 +34,5 @@ Si ca marche pas reinstaller   NodeJS  et  Gulp  et faire npm update
 ## Test :
 
 https://htmlpreview.github.io/?https://github.com/NikEurope/Semantic-UI/blob/master/Semantic-UI-Test/index.html
+https://htmlpreview.github.io/?https://github.com/NikEurope/Semantic-UI/blob/master/Semantic-UI-Test2/index.html
 
