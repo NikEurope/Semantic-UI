@@ -1,5 +1,5 @@
 # Semantic-UI
-
+### Un framework CSS complet à personnaliser
 
 Semantic UI   https://semantic-ui.com/
 
@@ -26,11 +26,8 @@ Include in Your HTML :
 <script src="semantic/dist/semantic.min.js"></script>
 
 
-
-
 TUTO : https://www.youtube.com/watch?v=ePfR7Zlexy4
 Si ca marche pas reinstaller   NodeJS  et  Gulp  et faire npm update
-
 
 
 
